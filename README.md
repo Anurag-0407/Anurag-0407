@@ -18,7 +18,7 @@
 - [Project 3 — Coming soon]()
 
 ## 📫 Connect with Me
-- LinkedIn: 
+- LinkedIn: https://in.linkedin.com/in/anurag-xd-90863a32a
 - Email: xdanurag200007@gmail.com
 
 ---
