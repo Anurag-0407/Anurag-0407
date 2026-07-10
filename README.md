@@ -3,7 +3,7 @@
 🎓 Computer Science student, currently building my skills toward a career as a **Software Engineer / Data Scientist**
 
 ## 🚀 What I'm Learning
-- **Languages**: Java, C, SQL
+- **Languages**: Java, C, SQL, PL/SQL
 - **Currently diving into**: Data Structures & Algorithms, Python
 - **Tools**: Git & GitHub
 
@@ -18,7 +18,7 @@
 - [Project 3 — Coming soon]()
 
 ## 📫 Connect with Me
-- LinkedIn: [Add your LinkedIn URL here]
+- LinkedIn: 
 - Email: xdanurag200007@gmail.com
 
 ---
