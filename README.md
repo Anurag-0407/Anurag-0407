@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Anurag 👋
 
-<!--
-**Anurag-0407/Anurag-0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student, currently building my skills toward a career as a **Software Engineer / Data Scientist**
 
-Here are some ideas to get you started:
+## 🚀 What I'm Learning
+- **Languages**: Java, C, SQL
+- **Currently diving into**: Data Structures & Algorithms, Python
+- **Tools**: Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm Working On
+- Building projects to strengthen my DSA and database fundamentals
+- Actively looking for internship opportunities in Software Engineering / Data Science
+
+## 📌 Featured Projects
+<!-- Update these links once your projects are live -->
+- [Project 1 — Coming soon]()
+- [Project 2 — Coming soon]()
+- [Project 3 — Coming soon]()
+
+## 📫 Connect with Me
+- LinkedIn: [Add your LinkedIn URL here]
+- Email: xdanurag200007@gmail.com
+
+---
+⭐ Open to internships and collaborations — feel free to reach out!
